@@ -46,7 +46,7 @@ void colorImpresora(){
 		System.out.println("El color elegido es AZUL");
 		break;
 	case 'B':
-		System.out.println("El color elegido es el BLANCO");
+		System.out.println("El color elegido es el MARRON");
 		break;
 	case 'N':
 		System.out.println("El color elegido es NEGRO");
