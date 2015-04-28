@@ -9,7 +9,7 @@ Impresoras(){
 	teclado = new Scanner (System.in);
 	System.out.print("Introduce la marca de la Impresora: ");
 	marca= teclado.nextLine();
-	System.out.print("Introduce una velocida de impresion en p·ginas por minuto: ");
+	System.out.print("Introduce una velocida de impresion en p√°ginas por minuto: ");
 	velocidadImpresion=teclado.nextFloat();
 	System.out.print("Introduce el peso de la impresora: ");
 	peso=teclado.nextFloat();
@@ -43,7 +43,7 @@ void colorImpresora(){
 		System.out.println("El color elegido es ROJO");
 		break;
 	case 'A':
-		System.out.println("El color elegido es AZUL");
+		System.out.println("El color elegido es GRANATE");
 		break;
 	case 'B':
 		System.out.println("El color elegido es el MARRON");
