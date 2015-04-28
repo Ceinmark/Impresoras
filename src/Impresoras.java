@@ -55,7 +55,7 @@ void colorImpresora(){
 		System.out.println("El color elegido es VIOLETA");
 		break;
 	default:
-		System.out.println("Color asignado no disponible, teclee un color correcto ");
+		System.out.println("Color asignado no esta disponible, teclee un color correcto ");
 	}
 }
 void mostrarImpresora(){
